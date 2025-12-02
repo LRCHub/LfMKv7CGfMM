@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "UMBRA",
+  "base_artist": "ELFENSJóN",
+  "createdAt": "2025-12-02T08:53:57.857234Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Umbra",
+      "artist": "Karnivool",
+      "has_synced": false,
+      "path": "select/01_Umbra_Karnivool.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kokon (Brandneu-Remix von Umbra et Imago)",
+      "artist": "Asp",
+      "has_synced": false,
+      "path": "select/02_Kokon_(Brandneu-Remix_von_Umbra_et_Imago)_Asp.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lykanthropie (Umbra et Imago remix)",
+      "artist": "Asp",
+      "has_synced": false,
+      "path": "select/03_Lykanthropie_(Umbra_et_Imago_remix)_Asp.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Umbra",
+      "artist": "Subway to Sally",
+      "has_synced": true,
+      "path": "select/04_Umbra_Subway_to_Sally.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Umbra",
+      "artist": "Kolm",
+      "has_synced": true,
+      "path": "select/05_Umbra_Kolm.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UMBRA",
+      "artist": "ELFENSJóN",
+      "has_synced": false,
+      "path": "select/pl_01_UMBRA_ELFENSJóN.txt"
+    }
+  ]
+}
